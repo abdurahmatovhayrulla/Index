@@ -1,0 +1,1 @@
+document.getElementById("ds_top").innerHTML = "<div id='ds_top'></div>";
